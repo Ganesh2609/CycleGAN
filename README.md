@@ -21,16 +21,16 @@ The Discriminator model uses a PatchGAN architecture:
 Some generated samples from different epochs are displayed below:
 
 - **Epoch 32:**  
-  ![Epoch 32](Results/Epoch_32.png)
+  ![Epoch 32](Results/Epoch_32_crct_plot.png)
 
 - **Epoch 33:**  
-  ![Epoch 33](Results/Epoch_33.png)
+  ![Epoch 33](Results/Epoch_33_crct_plot.png)
 
 - **Epoch 36:**  
-  ![Epoch 36](Results/Epoch_36.png)
+  ![Epoch 36](Results/Epoch_36_crct_plot.png)
 
 - **Epoch 41:**  
-  ![Epoch 41](Results/Epoch_41.png)
+  ![Epoch 41](Results/Epoch_41_crct_plot.png)
 
 ## How to Run
 
