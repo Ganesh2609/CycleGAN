@@ -32,16 +32,20 @@ PatchGAN discriminator architecture for realistic texture generation:
 
 Training results showing the model's progression across different epochs:
 
-**Epoch 32:**
+**Epoch 32**
+
 ![Epoch 32 Results](Results/Epoch_32_crct_plot.png)
 
-**Epoch 33:**
+**Epoch 33**
+
 ![Epoch 33 Results](Results/Epoch_33_crct_plot.png)
 
-**Epoch 36:**
+**Epoch 36**
+
 ![Epoch 36 Results](Results/Epoch_36_crct_plot.png)
 
-**Epoch 41:**
+**Epoch 41**
+
 ![Epoch 41 Results](Results/Epoch_41_crct_plot.png)
 
 ## Code Structure
